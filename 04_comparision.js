@@ -11,3 +11,10 @@
 // console.log(10 > 9 && 10 < 9);  // output false  isme ham do condition check kar rahe hai or jab dono condition sahi hogi tab hi true return karega true
 // console.log(10 > 9 || 10 < 9);  // output true   isme ham do condition check kar rahe hai or jab dono condition me se koi ek condition sahi hona chiye to answer true aa jyega 
 
+// ab isme agar ham dhekna dhekna ho ki data type v check karna ho ki jab dono ka datatype same ho tabhi ham usko compare kare to uske liye ham === use karte hai to ye datatype check karta hai 
+// for example :- 
+// console.log("9" === 9);
+// console.log(10 === 9);
+// console.log(10 !== 9);
+
+
