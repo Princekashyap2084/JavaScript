@@ -51,4 +51,25 @@
 // let assignedNull = null;
 // console.log(assignedNull); // Output: null
 
-Symbol
+// Symbol abhi mereko samajh sahi se nahi aa rha to isko phele me padhuga or fir update kar duga 
+
+// for example :-
+// const sym1 = Symbol();
+// const sym2 = Symbol("foo");
+// const sym3 = Symbol("foo");
+// 
+// console.log(sym1);
+// console.log(sym2);
+// console.log(sym3);
+
+// object ko ham use karte hai multiple data store karane ke liye ek hi object me or object me ham function v store kar sakte hai 
+// for example :- 
+// const selfInformation = {
+//     fullName : "Amit Kumar Raikwar",
+//     age : 21,
+//     cource : "BCA",
+//     year : 2025,
+// }
+
+// console.log(selfInformation.year);
+
